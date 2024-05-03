@@ -10,7 +10,7 @@
 Write a simple Python script, using any open-source Python OCR library to extract information from invoice images (Image to Text). Research to determine which library is best rated, then choose that library to implement.
 
 ## Method
-- TesseractOCR, 
+- TesseractOCR
 - EasyOCR
 - Noise Reduction
   
