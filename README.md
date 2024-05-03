@@ -63,9 +63,10 @@ def EasyOCR(imagePath, saveName):
 
 ## Experimental Results
 The image depicts the extracted information from invoice images in the experiment, utilizing the EasyOCR open-source OCR library.
-![](Results/EasyOCR.jpg)
 
 ![](Results/Easy.jpg)
+
+![](Results/EasyOCR.jpg)
 
 
 ## Technologies Used
